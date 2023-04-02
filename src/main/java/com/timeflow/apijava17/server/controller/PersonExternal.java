@@ -14,9 +14,10 @@ public class PersonExternal {
     private PersonClient personClient;
 
     @GetMapping(value = "/getNameSaudation")
-    public void getPersonNameFromCore() {
+    public String getPersonNameFromCore() {
         String name = "Oswaldo";
         String msgReceived = personClient.getSaudation(name);
         System.out.println("Message Received: " + msgReceived);
+        return msgReceived;
     }
 }
