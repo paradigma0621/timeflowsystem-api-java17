@@ -1,7 +1,7 @@
-package com.timeflow.apijava17.server.controller;
+package com.paradigma0621.api.server.controller;
 
-import com.timeflow.apijava17.client.PersonClient;
-import com.timeflow.apijava17.dto.PersonDto;
+import com.paradigma0621.api.client.PersonClient;
+import com.paradigma0621.api.dto.PersonDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,7 +1,7 @@
-package com.timeflow.apijava17.server.controller;
+package com.paradigma0621.api.server.controller;
 
-import com.timeflow.apijava17.client.ClockingClient;
-import com.timeflow.apijava17.dto.ClockingDto;
+import com.paradigma0621.api.client.ClockingClient;
+import com.paradigma0621.api.dto.ClockingDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

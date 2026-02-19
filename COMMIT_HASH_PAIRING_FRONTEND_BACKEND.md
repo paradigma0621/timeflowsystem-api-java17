@@ -27,7 +27,7 @@ Description: Add API microservices with Feign-based communication <br>
 
 | Date       | Security  | Frontend |  Eureka | Core    | Report  | Gateway |   API   |
 |------------| --------  | -------- | ------- | ------- | ------- | ------- | ------- |
-| 2026-02-19 |           | 6e10164  | 4834db3 | 268520e | fefb350 | 4fe2b24 |         |
+| 2026-02-19 |           | 6e10164  | 4834db3 | 268520e | fefb350 | 4fe2b24 | 3398bbb |
 
 
 ### PHASE 5 - Gateway connection

@@ -1,4 +1,4 @@
-package com.timeflow.apijava17.dto;
+package com.paradigma0621.api.dto;
 
 import java.time.LocalDateTime;
 

@@ -1,4 +1,4 @@
-package com.timeflow.apijava17;
+package com.paradigma0621.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

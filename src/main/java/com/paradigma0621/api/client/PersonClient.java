@@ -1,6 +1,6 @@
-package com.timeflow.apijava17.client;
+package com.paradigma0621.api.client;
 
-import com.timeflow.apijava17.dto.PersonDto;
+import com.paradigma0621.api.dto.PersonDto;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

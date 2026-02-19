@@ -1,6 +1,6 @@
-package com.timeflow.apijava17.client;
+package com.paradigma0621.api.client;
 
-import com.timeflow.apijava17.dto.ClockingDto;
+import com.paradigma0621.api.dto.ClockingDto;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
